@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style text-align:center;?</style>
 ✨I'm a student interested in Digital Communications. I've learned some web design, but I'm currently learning more about coding with Bethel School of Technology.✨  
 ✨I look forward to using GitHub more and building my portfolio!✨  
 ✨Fun fact: I'm a big fan of Marvel movies and Avatar: The Last Airbender!✨  
