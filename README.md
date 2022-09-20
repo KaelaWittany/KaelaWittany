@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I've learned some HTML, CSS, and JavaScript, and I'm currently learning more about coding with Bethel School of Technology.</p>
-<p>I look forward to using GitHub more and building my portfolio!</p>
+<p>✨I'm a student interested in Digital Communications. I've learned some web design, but I'm currently learning more about coding with Bethel School of Technology.✨</p>
+<p>✨I look forward to using GitHub more and building my portfolio!✨</p>
+<p>✨Fun fact: I'm a big fan of Marvel movies and Avatar: The Last Airbender!✨</p>
